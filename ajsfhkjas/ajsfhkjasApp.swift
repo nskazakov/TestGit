@@ -1,9 +1,4 @@
 //
-//  ajsfhkjasApp.swift
-//  ajsfhkjas
-//
-//  Created by Nikita Kazakov on 27.12.2021.
-//
 
 import SwiftUI
 
